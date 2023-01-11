@@ -1,0 +1,28 @@
+{
+  "name": "carlwebsite",
+  "version": "1.0.0",
+  "description": "Website for CARL",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucla-spike/CarlWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucla-spike/CarlWebsite/issues"
+  },
+  "homepage": "https://github.com/ucla-spike/CarlWebsite#readme",
+  "dependencies": {
+    "server": "^1.0.38"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
